@@ -76,7 +76,6 @@ Passion-driven software engineer with hands-on experience building scalable serv
 - **IMDB-TV-Shows-Explorer** — Python app with real-time SQL queries and interactive visuals for the IMDb Top 5000 TV shows dataset.  
 - **Portfolio** — Personal website showcasing projects and writing.
 
-> Explore more in my pinned repositories below.
 
 ---
 
