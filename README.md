@@ -107,11 +107,3 @@ Passion-driven software engineer with hands-on experience building scalable serv
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rohit-parthiban/
 
 ---
-
-#### Usage
-1) Create a public repo named **`Rohit-Parthiban`** (exactly your username).  
-2) Add this file as `README.md` to that repo.  
-3) Commit and push — GitHub will surface it on your profile automatically.  
-4) Pin the most relevant repos to align with roles you are targeting.
-
-> Optional: Add a `resume.pdf` file at the repo root and update the link above.
