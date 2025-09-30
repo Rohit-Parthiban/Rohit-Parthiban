@@ -8,7 +8,7 @@ San Jose, CA • rohitparthi2001@gmail.com
 ### Quick Links
 - Portfolio: https://rohit-parthiban.github.io/Portfolio/
 - LinkedIn: https://www.linkedin.com/in/rohit-parthiban/  
-- Resume: [View PDF](./resume.pdf) *(optional)*
+- Resume: [View PDF](./resume.pdf) 
 
 ---
 
